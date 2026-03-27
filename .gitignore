@@ -1,0 +1,2 @@
+# WiFi / MQTT credentials – never commit real credentials
+embedded/main/secrets.h
